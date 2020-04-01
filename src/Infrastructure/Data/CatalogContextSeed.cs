@@ -59,7 +59,7 @@ namespace Microsoft.eShopWeb.Infrastructure.Data
         {
             return new List<CatalogBrand>()
             {
-                new CatalogBrand("Azure"),
+                new CatalogBrand("MS Azure"),
                 new CatalogBrand(".NET"),
                 new CatalogBrand("Visual Studio"),
                 new CatalogBrand("SQL Server"),
